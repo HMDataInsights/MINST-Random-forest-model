@@ -1,4 +1,4 @@
-## MNIST Handwritten Digits Classification with Random Forest
+## MNIST Handwritten Digits Classification using Random Forest Classifier
 
 #### Table of Contents
 - Description
